@@ -1,0 +1,29 @@
+# Gradle / Android build outputs
+.gradle/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local machine settings
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp artifacts
+*.log
+*.tmp
+
+# APK / bundle artifacts
+*.apk
+*.aab
+
+# User assignment workspace
+work/
