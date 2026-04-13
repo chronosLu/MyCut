@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCut</string>
+    <string name="start_capture">立即截屏</string>
+    <string name="start_ball">启动悬浮球</string>
+    <string name="grant_overlay">开启悬浮窗权限</string>
+    <string name="stop_overlay">关闭贴图和悬浮球</string>
+    <string name="export_logs">导出日志</string>
+    <string name="view_logs">查看调试日志</string>
+    <string name="refresh_logs">刷新日志</string>
+    <string name="clear_logs">清空日志</string>
+    <string name="open_settings">设置</string>
+    <string name="settings_title">显示设置</string>
+    <string name="settings_border_toggle">悬浮截图边框</string>
+    <string name="settings_border_hint">开启后为截图贴图增加细边框，便于和背景区分</string>
+    <string name="settings_ball_size">悬浮球大小</string>
+    <string name="settings_choose_bg">选择背景图</string>
+    <string name="settings_clear_bg">清除背景图</string>
+    <string name="settings_done">完成</string>
+    <string name="floating_action_close">关闭</string>
+    <string name="floating_action_ocr">OCR</string>
+    <string name="ocr_scanning">正在识别文字…</string>
+    <string name="ocr_result_title">OCR 结果</string>
+    <string name="ocr_empty">未识别到文字</string>
+    <string name="ocr_copy_success">文字已复制到剪贴板</string>
+    <string name="status_idle">状态：待命</string>
+    <string name="status_ready">状态：悬浮球可用，双击触发截屏</string>
+    <string name="status_processing">状态：正在处理截图</string>
+    <string name="status_done">状态：已生成贴图</string>
+    <string name="notification_channel_name">MyCut 悬浮服务</string>
+    <string name="notification_title">MyCut 正在运行</string>
+    <string name="notification_text">你可以随时开始截图并贴图置顶</string>
+    <string name="quick_ball_channel_name">MyCut 悬浮球</string>
+    <string name="quick_ball_notification_title">MyCut 悬浮球已开启</string>
+    <string name="quick_ball_notification_text">双击悬浮球进入截屏，支持 Ctrl+Shift+S</string>
+    <string name="projection_channel_name">MyCut 截屏服务</string>
+    <string name="projection_notification_title">MyCut 正在截屏</string>
+    <string name="projection_notification_text">正在抓取当前屏幕</string>
+    <string name="copy_success">已复制图片到剪贴板</string>
+    <string name="select_hint">拖拽框选，框内可移动，完成按钮会跟随到选区附近</string>
+    <string name="select_done">完成裁剪</string>
+    <string name="select_cancel">取消</string>
+    <string name="capture_preparing">正在准备截图…</string>
+</resources>

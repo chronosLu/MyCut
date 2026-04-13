@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#D7CCC8</color>
+    <color name="purple_700">#A1887F</color>
+    <color name="teal_200">#8D6E63</color>
+    <color name="white">#000000</color>
+    <color name="black">#FFFFFF</color>
+
+    <!-- Warm Colored Glass System (Night) -->
+    <color name="app_background">#121212</color>
+    
+    <!-- 有色玻璃卡片: 深咖啡色半透明 -->
+    <color name="surface_card">#334E342E</color> 
+    <color name="surface_card_stroke">#33A1887F</color>
+    
+    <color name="primary_accent">#BCAAA4</color>
+    <color name="primary_text">#EFEBE9</color>
+    <color name="secondary_text">#A1887F</color>
+    
+    <!-- 统一的按钮样式: 稍微亮一点的深色玻璃 -->
+    <color name="action_button_bg">#33FFFFFF</color>
+    <color name="action_button_stroke">#00000000</color>
+    <color name="action_button_text">#EFEBE9</color>
+    
+    <color name="status_idle_bg">#2C2C2C</color>
+    <color name="status_idle_text">#B0B0B0</color>
+    <color name="status_active_bg">#1B5E20</color>
+    <color name="status_active_text">#A5D6A7</color>
+</resources>

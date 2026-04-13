@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#8D6E63</color>
+    <color name="purple_700">#5D4037</color>
+    <color name="teal_200">#D7CCC8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#3E2723</color>
+
+    <!-- Warm Colored Glass System (Day) -->
+    <color name="app_background">#FDFCF8</color>
+    
+    <!-- 有色玻璃卡片: 浅茶色半透明 -->
+    <color name="surface_card">#80FFF8E1</color> 
+    <color name="surface_card_stroke">#338D6E63</color>
+    
+    <color name="primary_accent">#795548</color>
+    <color name="primary_text">#4E342E</color>
+    <color name="secondary_text">#8D6E63</color>
+    
+    <!-- 统一的按钮样式: 深一点的半透明茶色 -->
+    <color name="action_button_bg">#4D8D6E63</color>
+    <color name="action_button_stroke">#00000000</color> <!-- 无边框 -->
+    <color name="action_button_text">#4E342E</color>
+    
+    <color name="status_idle_bg">#F5F5F5</color>
+    <color name="status_idle_text">#9E9E9E</color>
+    <color name="status_active_bg">#E8F5E9</color>
+    <color name="status_active_text">#2E7D32</color>
+    <color name="glass_button_bg">#33FFFFFF</color>
+    <color name="glass_button_stroke">#66FFFFFF</color>
+    <color name="glass_card_bg">#22FFFFFF</color>
+    <color name="glass_card_stroke">#55FFFFFF</color>
+    <color name="bg_gradient_start">#1C2331</color>
+    <color name="bg_gradient_end">#11161F</color>
+    <color name="status_chip_bg">#2AFFFFFF</color>
+    <color name="text_primary">#F2FFFFFF</color>
+</resources>

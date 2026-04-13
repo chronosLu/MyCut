@@ -6,6 +6,7 @@ captures/
 .cxx/
 
 # IDE
+.trae/
 .idea/
 *.iml
 .vscode/
@@ -25,5 +26,3 @@ Thumbs.db
 *.apk
 *.aab
 
-# User assignment workspace
-work/
